@@ -22,7 +22,7 @@ else
 System.out.println("not palindrome");
 }
 }
-class palindrome1
+class palindrome_case
 {
 public static void main(String args[])
 {
