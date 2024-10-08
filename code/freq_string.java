@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class test
+class freq_string
 {
 public static void main(String args[])
 {
