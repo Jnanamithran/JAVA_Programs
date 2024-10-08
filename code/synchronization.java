@@ -36,7 +36,7 @@ int b=sc.nextInt();
 t.printTable(b);
 }
 }
-public class testsync
+public class synchronization
 {
 public static void main(String args[])
 {
