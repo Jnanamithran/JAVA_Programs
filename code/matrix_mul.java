@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class test1
+class matrix_mul
 {
 public static void main(String args[])
 {
