@@ -24,7 +24,7 @@ public void numberOfSides()
 System.out.println("Number of sides of Hexagon = 6");
 }
 }
-class abstract1
+class abstract_class
 {
 public static void main(String args[])
 {
