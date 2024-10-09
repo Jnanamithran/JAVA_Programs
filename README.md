@@ -18,3 +18,13 @@ This repository contains Java programs developed as part of my higher studies. T
 
 ★Abstarct class
 
+★Synchroniztaion
+
+★Palindrome
+
+★Palindrome case sensitive
+
+★Matrix multiplication 
+
+
+
